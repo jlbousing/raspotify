@@ -1,0 +1,15 @@
+{
+  "name": "raspotify",
+  "version": "1.0.0",
+  "description": "raspotify is a stream server to play songs in a mobile client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Luis Bou-saad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mediaserver": "^0.1.1"
+  }
+}
